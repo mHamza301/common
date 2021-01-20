@@ -11,3 +11,5 @@ const color: ColorCode  = {
 };
 
 console.log(color);
+
+export default color;
